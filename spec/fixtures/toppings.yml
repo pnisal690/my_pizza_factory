@@ -1,0 +1,53 @@
+black_olive:
+  id: 1
+  name: "Black Olive"
+  price: 20
+  is_vegetarian: true
+
+capsicum:
+  id: 2
+  name: "Capsicum"
+  price: 25
+  is_vegetarian: true
+
+paneer:
+  id: 3
+  name: "Paneer"
+  price: 35
+  is_vegetarian: true
+
+mushroom:
+  id: 4
+  name: "Mushroom"
+  price: 30
+  is_vegetarian: true
+
+fresh_tomato:
+  id: 5
+  name: "Fresh Tomato"
+  price: 10
+  is_vegetarian: true
+
+chicken_tikka:
+  id: 6
+  name: "Chicken Tikka"
+  price: 35
+  is_vegetarian: false
+
+barbeque_chicken:
+  id: 7
+  name: "Barbeque Chicken"
+  price: 45
+  is_vegetarian: false
+
+grilled_chicken:
+  id: 8
+  name: "Grilled Chicken"
+  price: 40
+  is_vegetarian: false
+
+extra_cheese:
+  id: 9
+  name: "Extra Cheese"
+  price: 35
+  is_vegetarian: true

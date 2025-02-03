@@ -45,7 +45,7 @@ MY_Pizza_Factory is an online pizza ordering system built using Ruby on Rails. C
 ```json
 {
   "order": {
-    "customer_name": "John Doe",
+    "customer_name": "prashant nisal",
     "pizzas": [
       {
         "pizza_id": 1,

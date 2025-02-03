@@ -1,0 +1,29 @@
+pizza_inventory:
+  item_type: "Pizza"
+  item_id: 1  # Reference to a pizza in pizzas.yml
+  quantity: 10
+
+crust_inventory:
+  item_type: "Crust"
+  item_id: 1  # Reference to a crust in crusts.yml
+  quantity: 15
+
+topping_paneer_inventory:
+  item_type: "Topping"
+  item_id: 3  # Reference to Paneer in toppings.yml
+  quantity: 20
+
+topping_capsicum_inventory:
+  item_type: "Topping"
+  item_id: 2  # Reference to Capsicum in toppings.yml
+  quantity: 25
+
+side_cold_drink_inventory:
+  item_type: "Side"
+  item_id: 1  # Reference to Cold drink in sides.yml
+  quantity: 30
+
+side_mousse_cake_inventory:
+  item_type: "Side"
+  item_id: 2  # Reference to Mousse Cake in sides.yml
+  quantity: 20

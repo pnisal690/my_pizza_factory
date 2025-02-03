@@ -1,0 +1,9 @@
+cold_drink:
+  id: 1
+  name: "Cold Drink"
+  price: 55
+
+mousse_cake:
+  id: 2
+  name: "Mousse Cake"
+  price: 90

@@ -1,0 +1,4 @@
+order_one:
+  id: 1
+  customer_name: "John Doe"
+  status: "pending"

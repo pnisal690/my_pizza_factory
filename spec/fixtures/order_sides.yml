@@ -1,0 +1,11 @@
+order_side_one:
+  id: 1
+  order_id: 1
+  side_id: 1
+  quantity: 2
+
+order_side_two:
+  id: 2
+  order_id: 1
+  side_id: 2
+  quantity: 1

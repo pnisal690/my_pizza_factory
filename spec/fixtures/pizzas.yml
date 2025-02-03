@@ -1,0 +1,53 @@
+deluxe_veggie:
+  id: 1
+  name: "Deluxe Veggie"
+  price_regular: 150
+  price_medium: 200
+  price_large: 325
+  category: "vegetarian"
+  crust_id: 1
+
+cheese_corn:
+  id: 2
+  name: "Cheese and Corn"
+  price_regular: 175
+  price_medium: 375
+  price_large: 475
+  category: "vegetarian"
+  crust_id: 2
+
+paneer_tikka:
+  id: 3
+  name: "Paneer Tikka"
+  price_regular: 160
+  price_medium: 290
+  price_large: 340
+  category: "vegetarian"
+  crust_id: 3
+
+non_veg_supreme:
+  id: 4
+  name: "Non-Veg Supreme"
+  price_regular: 190
+  price_medium: 325
+  price_large: 425
+  category: "non-vegetarian"
+  crust_id: 4
+
+chicken_tikka:
+  id: 5
+  name: "Chicken Tikka"
+  price_regular: 210
+  price_medium: 370
+  price_large: 500
+  category: "non-vegetarian"
+  crust_id: 1
+
+pepper_barbecue_chicken:
+  id: 6
+  name: "Pepper Barbecue Chicken"
+  price_regular: 220
+  price_medium: 380
+  price_large: 525
+  category: "non-vegetarian"
+  crust_id: 2

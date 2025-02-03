@@ -1,0 +1,19 @@
+new_hand_tossed:
+  id: 1
+  name: "New Hand Tossed"
+  price: 0
+
+wheat_thin_crust:
+  id: 2
+  name: "Wheat Thin Crust"
+  price: 0
+
+cheese_burst:
+  id: 3
+  name: "Cheese Burst"
+  price: 0
+
+fresh_pan_pizza:
+  id: 4
+  name: "Fresh Pan Pizza"
+  price: 0
